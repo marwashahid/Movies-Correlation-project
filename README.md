@@ -7,7 +7,14 @@ Python libraries numpy, matplotlib, seaborn and pandas are used to go through th
 <h3>Conclusion of the analysis</h3>
 <p>The analysis of the dataset showed that the budget and votes have a high correlation with the gross revenue of the movie</p>
 <br><br>
+<h3>Output Screenshots</h3>
+<img src="images/scatterplot.png">
+<img src="images/regs.png">
+<img src= "images/correlation.png">
+<img src= "images/corr.png">
 
+
+<br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/marwashahid](https://github.com/marwashahid)
 
