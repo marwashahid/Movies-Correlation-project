@@ -8,6 +8,7 @@ Python libraries numpy, matplotlib, seaborn and pandas are used to go through th
 <p>The analysis of the dataset showed that the budget and votes have a high correlation with the gross revenue of the movie</p>
 <br><br>
 
+
 - 👨‍💻 All of my projects are available at [https://github.com/marwashahid](https://github.com/marwashahid)
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
