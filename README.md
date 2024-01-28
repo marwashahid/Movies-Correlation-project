@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marwa Shahid</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
+<h3>What does this project do?</h3>
+<p>The project uses a movies data set that is taken from Kaggle. The dataset contains the information about movies including their company, budget and votes received, dates and many other.
+Python libraries numpy, matplotlib, seaborn and pandas are used to go through the data set and draw conclusions regarding the correlation of various features of movies.
+</p>
+<h3>Conclusion of the analysis</h3>
+<p>The analysis of the dataset showed that the budget and votes have a high correlation with the gross revenue of the movie</p>
+<br><br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/marwashahid](https://github.com/marwashahid)
 
@@ -20,10 +27,6 @@
 <h3 align="left">Languages and Tools used in this project:</h3>
 <p align="left"> Python<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <p>jupyter notebook</p>
-<h3>What does this project do?</h3>
-<p>The project uses a movies data set that is taken from Kaggle. The dataset contains the information about movies including their company, budget and votes received, dates and many other.
-Python libraries numpy, matplotlib, seaborn and pandas are used to go through the data set and draw conclusions regarding the correlation of various features of movies.
-</p>
 
 
 
