@@ -6,6 +6,14 @@ Python libraries numpy, matplotlib, seaborn and pandas are used to go through th
 </p>
 <h3>Conclusion of the analysis</h3>
 <p>The analysis of the dataset showed that the budget and votes have a high correlation with the gross revenue of the movie</p>
+
+<h3>How to run this project?</h3>
+<ol>
+  <li>Fork this repository</li>
+  <li>Clone the repository to your local computer</li>
+  <li>Open the downloaded ipynb file using Jupyter notebook</li>
+  <li>You can now run the project!</li>
+</ol>
 <br><br>
 <h3>Output Screenshots</h3>
 <img src="images/scatterplot.png">
